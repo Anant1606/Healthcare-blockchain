@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "web3": "^4.15.0"
+  },
+  "scripts": {
+    "start": "lite-server"
+  },
+  "lite-server": {
+    "baseDir": "./",
+    "index": "hospital.html"
+  }
+}
